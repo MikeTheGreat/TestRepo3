@@ -2,9 +2,9 @@
 
 THis is my awesome project.  It has three parts:
 
-1.  Part A
-2.  Step 2
-3.  The last step
+-  Part A
+-  Step 2
+-  The last step
 
 ## Part A
 asdfasdf
