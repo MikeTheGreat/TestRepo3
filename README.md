@@ -7,12 +7,9 @@ THis is my awesome project.  It has three parts:
 -  The last step
 
 ## Part A
-asdfasdf
+Another change
 
-asdfasdfsdaf
-
-asdfasdfasdfdasf
-
+Another change
 
 ## Step 2
 asdfasdf
