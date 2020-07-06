@@ -8,11 +8,10 @@ THis is my awesome project.  It has three parts:
 
 ## Part A
 asdfasdf
-asdfsadf
 
-para 2 para 2 para 2 para 2 para 2 para 2   
+asdfasdfsdaf
 
-para 3
+asdfasdfasdfdasf
 
 
 ## Step 2
