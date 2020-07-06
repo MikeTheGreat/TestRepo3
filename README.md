@@ -10,6 +10,11 @@ THis is my awesome project.  It has three parts:
 asdfasdf
 asdfsadf
 
+para 2 para 2 para 2 para 2 para 2 para 2   
+
+para 3
+
+
 ## Step 2
 asdfasdf
 sadfasdfasd
